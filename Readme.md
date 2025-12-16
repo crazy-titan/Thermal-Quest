@@ -95,7 +95,6 @@ Built using **ESP32, Arduino IDE**, and open-source libraries.
 ## Project Images(3d view)
 Check this out.
 ![PCB Layout](assets/3D_view.png)
-> *(inside Kicad and one component is missing)*
 
 ---
 
